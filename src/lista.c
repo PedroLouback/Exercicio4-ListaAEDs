@@ -86,7 +86,7 @@ void SomaMaxima(Lista *l, int tamanho)
 	}
 	verifica = (tamanho*tamanho-(tamanho));
 	if((count+(tamanho-1)) == verifica){ //Verifica se todos os números foram somados olhando o número de possibilidades com o contador
-		printf("\nA maior soma é: %d", maior);
+		printf("\nA maior soma é: %d\n", maior);
 	}
 
 }
