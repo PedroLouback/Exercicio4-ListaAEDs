@@ -61,6 +61,7 @@ Segue a representação gráfica de um exemplo de um vetor de tamanho 5 dado pel
     A representação acima no diagrama demonstra apenas uma parte de como o programa irá rodar, pois o i irá ser reduzido até chegar na primeira posição fazendo a soma com todos e achando a maior soma.
 
 
+
 ---
 
 ## Compilação e Execução
